@@ -6,3 +6,4 @@ alterei
 alterei de novo t
 outra alteração
 alterar de novo
+um dois tres quatro cinco seis sete oito nove dez
